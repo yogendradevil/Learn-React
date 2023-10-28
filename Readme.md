@@ -26,11 +26,11 @@ https://github.com/yogendradevil/Learn-React/assets/81254268/d3566f5c-d8ea-4edd-
 
 ## Password Generator
 
-- learnings 
--- useCallback
--- useEffect
--- useRef
--- useState
+- learnings
+  - useCallback
+  - useEffect
+  - useRef
+  - useState
 
   
 
