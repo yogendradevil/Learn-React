@@ -24,3 +24,15 @@ cant call a function with parameters directly in onChange method
 
 https://github.com/yogendradevil/Learn-React/assets/81254268/d3566f5c-d8ea-4edd-860e-2d13872e1c81
 
+## Password Generator
+
+- learnings
+  - useCallback
+  - useEffect
+  - useRef
+  - useState
+
+  
+
+https://github.com/yogendradevil/Learn-React/assets/81254268/e7b2c6ca-b45e-4d97-9e96-fcb6c9571cb5
+
