@@ -40,15 +40,15 @@ https://github.com/yogendradevil/Learn-React/assets/81254268/e7b2c6ca-b45e-4d97-
 
 ![image](https://github.com/yogendradevil/Learn-React/assets/81254268/516acf40-a372-4864-a1ec-6d0238ec91ff)
 
-## Context
-
-![image](https://github.com/yogendradevil/Learn-React/assets/81254268/f8e0f962-2031-4912-84ea-de56d6466299)
-
-
 
 ## React Router
 
 
 https://github.com/yogendradevil/Learn-React/assets/81254268/e68b8d1c-3bb2-4cb2-ab08-e7ceb0ec2ace
 
+
+
+## Context
+
+![image](https://github.com/yogendradevil/Learn-React/assets/81254268/96f7f616-3ea5-48ba-9d9a-75c6db7beb5d)
 
