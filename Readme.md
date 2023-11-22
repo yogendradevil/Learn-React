@@ -36,3 +36,14 @@ https://github.com/yogendradevil/Learn-React/assets/81254268/d3566f5c-d8ea-4edd-
 
 https://github.com/yogendradevil/Learn-React/assets/81254268/e7b2c6ca-b45e-4d97-9e96-fcb6c9571cb5
 
+## Currency Converter
+
+![image](https://github.com/yogendradevil/Learn-React/assets/81254268/516acf40-a372-4864-a1ec-6d0238ec91ff)
+
+
+## React Router
+
+
+https://github.com/yogendradevil/Learn-React/assets/81254268/e68b8d1c-3bb2-4cb2-ab08-e7ceb0ec2ace
+
+
