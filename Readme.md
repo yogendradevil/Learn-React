@@ -52,3 +52,9 @@ https://github.com/yogendradevil/Learn-React/assets/81254268/e68b8d1c-3bb2-4cb2-
 
 ![image](https://github.com/yogendradevil/Learn-React/assets/81254268/96f7f616-3ea5-48ba-9d9a-75c6db7beb5d)
 
+
+## Theme Switcher
+
+https://github.com/yogendradevil/Learn-React/assets/81254268/04e0832d-e5ff-4d9b-8d83-ebab6313c441
+
+
