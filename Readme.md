@@ -47,3 +47,8 @@ https://github.com/yogendradevil/Learn-React/assets/81254268/e7b2c6ca-b45e-4d97-
 https://github.com/yogendradevil/Learn-React/assets/81254268/e68b8d1c-3bb2-4cb2-ab08-e7ceb0ec2ace
 
 
+
+## Context
+
+![image](https://github.com/yogendradevil/Learn-React/assets/81254268/96f7f616-3ea5-48ba-9d9a-75c6db7beb5d)
+
